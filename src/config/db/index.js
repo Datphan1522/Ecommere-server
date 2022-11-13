@@ -12,3 +12,4 @@ async function connect() {
     }
 }
 module.exports = { connect }
+// test
